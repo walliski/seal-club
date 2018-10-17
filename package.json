@@ -1,0 +1,9 @@
+{
+  "name": "seal-club",
+  "version": "0.1.0",
+  "description": "Simple seal club game made in TS and ExcaliburJS",
+  "main": "index.js",
+  "repository": "git@github.com:walliski/seal-club.git",
+  "author": "Walliski",
+  "license": "MIT"
+}
